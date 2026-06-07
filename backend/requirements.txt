@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+pdfplumber
+python-docx
+httpx
+beautifulsoup4
+scikit-learn
+sentence-transformers
+anthropic

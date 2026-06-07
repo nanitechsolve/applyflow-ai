@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables (your secret keys)
+.env
+
+# Node
+node_modules/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
