@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react'
 import axios from 'axios'
 import { Plus, Star, RefreshCw, FileText } from 'lucide-react'
 
-const API = 'http://127.0.0.1:8000'
+const API = 'https://applyflow-ai-backend-wjzj.onrender.com'
 
 export default function Jobs() {
   const [jobs, setJobs]       = useState([])
